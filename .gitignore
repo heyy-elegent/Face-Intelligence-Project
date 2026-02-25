@@ -1,0 +1,17 @@
+# Virtual Environments
+faceenv/
+venv/
+env/
+.env
+
+# Python caching
+__pycache__/
+
+# Machine Learning Models (If they are large)
+*.h5
+*.pth
+*.pkl
+
+# IDE settings
+.vscode/
+.idea/
